@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FindYourWay</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_top_fragment">Witaj szczęśliwy posiadaczu aplikacji FindYourWay. Aplikacja ma wspierać cię w pracy nad sobą. Baw się dobrze i powodzenia!</string>
+    <string name="name">Name</string>
+    <string name="road">Road</string>
+    <string name="stop">stop</string>
+    <string name="start">start</string>
+    <string name="reset">reset</string>
+    <string name="save">save</string>
+    <string name="action_activity_title">Action Activity</string>
+    <string name="action_title">Action_Activity</string>
+    <string name="action_share">Share</string>
+    <string name="title_top">Fragment główny</string>
+
+    <string name="miejskie">MIEJSKIE</string>
+    <string name="terenowe">TERENOWE</string>
+    <string name="home">HOME</string>
+    <string name="top_header">Jakiś nagłówek</string>
+    <string name="top_image">Jakiś obrazek</string>
+    <string name="top_text">Jakieś kilkuzdaniowe bla bla bla.</string>
+    <string name="fab">FAB</string>
+
+    <string name="title_activity_statistic">StatisticActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_single_fragment_acticity">SingleFragmentActicity</string>
+
+
+
+</resources>

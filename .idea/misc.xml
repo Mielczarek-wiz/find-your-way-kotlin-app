@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/drawable-hdpi/history-48px.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/drawable/sun.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout-land/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout-land/fragment_way_detail.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout-large/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/activity_action.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/activity_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/activity_statistic.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/activity_temp.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/card_captioned_image.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/content_statistic.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/fragment_maps.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/fragment_roads_list.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/fragment_roads_way_list.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/fragment_stoper.xml" value="0.264" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/fragment_sunset.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/fragment_top.xml" value="0.136" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/fragment_way_detail.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/roads.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/layout/toolbar_main.xml" value="0.1" />
+        <entry key="..\:/Users/Damian Mielczarek/AndroidStudioProjects/FindYourWay/app/src/main/res/menu/menu_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
